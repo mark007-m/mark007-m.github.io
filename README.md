@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="hu">
   <head>
     <meta charset="UTF-8">
@@ -25,3 +24,4 @@
     <h1>AMERIKÁBA MEGYÜNK!</h1>
   </body>
 </html>
+
