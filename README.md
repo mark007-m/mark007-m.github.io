@@ -1,1 +1,27 @@
-AMERIKÁBA MEGYÜNK!
+<!DOCTYPE html>
+<html lang="hu">
+  <head>
+    <meta charset="UTF-8">
+    <title>Amerikába megyünk!</title>
+    <style>
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+      body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+      }
+      h1 {
+        font-size: 3em;
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>AMERIKÁBA MEGYÜNK!</h1>
+  </body>
+</html>
