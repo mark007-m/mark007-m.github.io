@@ -1,1 +1,24 @@
-# utazas25
+<html lang="hu">
+  <head>
+    <meta charset="UTF-8">
+    <title>Kalandozás az amerikai vadnyugaton - körutazás magyar idegenvezetővel 2025.10.23.-11.05.</title>
+    <style>
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+      body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+      }
+      h1 {
+        font-size: 3em;
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Kalandozás az amerikai vadnyugaton - körutazás magyar idegenvezetővel 2025.10.23.-11.05.</h1># utazas25
